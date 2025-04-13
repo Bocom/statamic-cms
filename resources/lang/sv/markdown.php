@@ -3,7 +3,7 @@
 return [
 
     'cheatsheet' => '
-<p>Markdown är en syntax som omvandlar text till HTML. Markdown låter dig skriva innehåll med ren text som är lätt att läsa och lätt att använda. Innehållet konverteras automatiskt till giltig HTML.</p>
+<p>Markdown är en syntax som omvandlar text till HTML. Markdown låter dig skriva innehåll med text som är lätt att läsa, lätt att skriva och som automatiskt konverteras till giltig HTML.</p>
 
 <h3>Rubriker</h3>
 <pre class="language-markdown"><code># Det här är en H1

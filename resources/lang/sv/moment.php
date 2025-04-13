@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'relativeTime.future' => 'i %s',
+    'relativeTime.future' => 'om %s',
     'relativeTime.past' => '%s sedan',
     'relativeTime.s' => 'några sekunder',
     'relativeTime.ss' => '%d sekunder',
@@ -13,6 +13,6 @@ return [
     'relativeTime.dd' => '%d dagar',
     'relativeTime.M' => 'en månad',
     'relativeTime.MM' => '%d månader',
-    'relativeTime.y' => 'per år',
+    'relativeTime.y' => 'ett år',
     'relativeTime.yy' => '%d år',
 ];
