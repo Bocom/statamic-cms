@@ -69,12 +69,12 @@ class Code extends Fieldtype
                     ],
                     'indent_type' => [
                         'display' => __('Indent Type'),
-                        'instructions' => __('statamic::fieldtypes.code.config.indent_type'),
+                        'instructions' => __('statamic::fieldtypes.code.config.indent_type.instructions'),
                         'type' => 'select',
                         'default' => 'tabs',
                         'options' => [
-                            'tabs' => __('Tabs'),
-                            'spaces' => __('Spaces'),
+                            'tabs' => __('statamic::fieldtypes.code.config.indent_type.tabs'),
+                            'spaces' => __('statamic::fieldtypes.code.config.indent_type.spaces'),
                         ],
                     ],
                     'indent_size' => [
